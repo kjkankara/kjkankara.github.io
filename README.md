@@ -6,6 +6,7 @@
 Ciesz się relaksem w otoczeniu pięknej natury i korzystaj z atrakcji rekreacyjnych, 
 takich jak jazda konna.***
 
+
 > ## Komfortowe Pokoje
 Obiekt oferuje 4 komfortowe pokoje: 3 dwuosobowe i 1 jednoosobowy z możliwością dostawienia dodatkowego łóżka, każdy z prywatną łazienką, co zapewnia wygodę
  i intymność dla gości. W części wspólnej dostępny jest aneks kuchenny.
@@ -19,9 +20,11 @@ Oferujemy szkolenia z jazdy konnej, przejażdżki bryczką oraz transport koni, 
 
 
 
+
 ***Nasz obiekt to miejsce stworzone z miłości do gościnności oraz pięknej natury. 
 Jako właściciel z wieloletnim doświadczeniem w wynajmie pokoi, pragnę zapewnić naszym gościom komfort i relaks w malowniczym Ćwikowie. 
 Nasza misja to stworzenie przytulnej przestrzeni, w której każdy może odpocząć i cieszyć się otaczającą przyrodą.***
+
 
 
 
