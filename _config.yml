@@ -1,9 +1,1 @@
-theme: volny/creative-theme-jekyll
-
-title: Pokoje Gościnne Ćwików
-description: Opis mojej strony
-url: "https://moja-strona.github.io"
-baseurl: ""
-
-
-author: Krzysztof
+remote_theme: pages-themes/tactile@v0.2.0
