@@ -1,47 +1,46 @@
-# Pokoje Gościnne Ćwików\
+# Pokoje Gościnne Ćwików
 
-
-
-
-
+<br>
+<br>
 
 ***Odkryj urok Ćwikowa, gdzie komfortowe pokoje gościnne czekają na Ciebie. 
 Ciesz się relaksem w otoczeniu pięknej natury i korzystaj z atrakcji rekreacyjnych, 
-takich jak jazda konna.***\
+takich jak jazda konna.***
 
-
+<br>
+<br>
 
 > ## Komfortowe Pokoje
 Obiekt oferuje 4 komfortowe pokoje: 3 dwuosobowe i 1 jednoosobowy z możliwością dostawienia dodatkowego łóżka, każdy z prywatną łazienką, co zapewnia wygodę
- i intymność dla gości. W części wspólnej dostępny jest aneks kuchenny.\
-
-
+ i intymność dla gości. W części wspólnej dostępny jest aneks kuchenny.
+ 
 > ## Piękna Lokalizacja
-Ćwików znajduje się w malowniczej okolicy z wieloma terenami zielonymi, idealnymi do rekreacji, jazdy konnej oraz organizacji ognisk.\
-
-
+Ćwików znajduje się w malowniczej okolicy z wieloma terenami zielonymi, idealnymi do rekreacji, jazdy konnej oraz organizacji ognisk.
 
 > ## Dodatkowe Usługi
-Oferujemy szkolenia z jazdy konnej, przejażdżki bryczką oraz transport koni, co stanowi atrakcyjne uzupełnienie oferty dla miłośników koni.\
+Oferujemy szkolenia z jazdy konnej, przejażdżki bryczką oraz transport koni, co stanowi atrakcyjne uzupełnienie oferty dla miłośników koni.
 
-
-
-
-
-
+<br>
+<br>
+<br>
 
 ***Nasz obiekt to miejsce stworzone z miłości do gościnności oraz pięknej natury. 
 Jako właściciel z wieloletnim doświadczeniem w wynajmie pokoi, pragnę zapewnić naszym gościom komfort i relaks w malowniczym Ćwikowie. 
-Nasza misja to stworzenie przytulnej przestrzeni, w której każdy może odpocząć i cieszyć się otaczającą przyrodą.***\
+Nasza misja to stworzenie przytulnej przestrzeni, w której każdy może odpocząć i cieszyć się otaczającą przyrodą.***
 
-
+<br>
+<br>
+<br>
 
 
    ## Skontaktujmy się!
-Zapraszamy do kontaktu! Chętnie odpowiemy na wszelkie pytania dotyczące naszej oferty i dostępności pokoi. Czekamy na Was!
-999 999 999\
+Zapraszamy do kontaktu! Chętnie odpowiemy na wszelkie pytania dotyczące naszej oferty i dostępności pokoi. <br>
+Czekamy na Was! <br>
+999 999 999
 
-
+<br>
+<br>
+<br>
 
 
 Ćwików 196
