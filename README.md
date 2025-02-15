@@ -27,7 +27,7 @@ Nasza misja to stworzenie przytulnej przestrzeni, w której każdy może odpocz�
 
 
 
-   ### Skontaktujmy się!
+   ## Skontaktujmy się!
 Zapraszamy do kontaktu! Chętnie odpowiemy na wszelkie pytania dotyczące naszej oferty i dostępności pokoi. Czekamy na Was!
 999 999 999
 
