@@ -15,7 +15,6 @@ Obiekt oferuje 4 komfortowe pokoje: 3 dwuosobowe i 1 jednoosobowy z możliwości
 Ćwików znajduje się w malowniczej okolicy z wieloma terenami zielonymi, idealnymi do rekreacji, jazdy konnej oraz organizacji ognisk.
 
 > ## Dodatkowe Usługi
-
 Oferujemy szkolenia z jazdy konnej, przejażdżki bryczką oraz transport koni, co stanowi atrakcyjne uzupełnienie oferty dla miłośników koni.
 
 
