@@ -2,20 +2,34 @@
 
 
 
+
+
+
 ***Odkryj urok Ćwikowa, gdzie komfortowe pokoje gościnne czekają na Ciebie. 
 Ciesz się relaksem w otoczeniu pięknej natury i korzystaj z atrakcji rekreacyjnych, 
 takich jak jazda konna.***
+
+
+
+
 
 
 > ## Komfortowe Pokoje
 Obiekt oferuje 4 komfortowe pokoje: 3 dwuosobowe i 1 jednoosobowy z możliwością dostawienia dodatkowego łóżka, każdy z prywatną łazienką, co zapewnia wygodę
  i intymność dla gości. W części wspólnej dostępny jest aneks kuchenny.
 
+
+
 > ## Piękna Lokalizacja
 Ćwików znajduje się w malowniczej okolicy z wieloma terenami zielonymi, idealnymi do rekreacji, jazdy konnej oraz organizacji ognisk.
 
+
+
 > ## Dodatkowe Usługi
 Oferujemy szkolenia z jazdy konnej, przejażdżki bryczką oraz transport koni, co stanowi atrakcyjne uzupełnienie oferty dla miłośników koni.
+
+
+
 
 
 
