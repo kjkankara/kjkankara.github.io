@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pokoje do wynajęcia | Ćwików, Oleśno</title>
+    <title>Pokoje do wynajęcia | Ćwików, Olesno</title>
     <style>
         :root {
             --primary-color: #3a5a40;
