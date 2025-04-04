@@ -290,27 +290,31 @@ footer {
     padding: 2rem 0;
     text-align: center;
 }
-
-/* Responsive */
-@media (max-width: 768px) {
-    h1 {
-        font-size: 2rem;
-    }
-    
-    h2 {
-        font-size: 1.8rem;
-    }
-    
-    .gallery-item {
-        height: 200px;
-    }
+/* Styl dla telefonów */
 @media (max-width: 768px) {
     .location-info {
-        gap: 1rem; /* Mniejszy odstęp między kolumnami */
+        grid-template-columns: 1fr; /* Jedna kolumna na telefonach */
+    }
+    
+    .location-info > div {
+        margin-bottom: 2rem;
+    }
+    
+    .location-info ul {
+        padding-left: 0;
     }
     
     .location-info li {
-        font-size: 0.9rem; /* Mniejsza czcionka na telefonach */
-        margin-bottom: 0.5rem;
-    }  
+        text-align: left;
+        line-height: 1.4;
+        margin-bottom: 0.8rem;
+        padding-left: 0;
+    }
+    
+    .location-info h3 {
+        text-align: center;
+        margin-bottom: 1rem;
+    }
+}
+  
 }
