@@ -304,4 +304,13 @@ footer {
     .gallery-item {
         height: 200px;
     }
+@media (max-width: 768px) {
+    .location-info {
+        gap: 1rem; /* Mniejszy odstęp między kolumnami */
+    }
+    
+    .location-info li {
+        font-size: 0.9rem; /* Mniejsza czcionka na telefonach */
+        margin-bottom: 0.5rem;
+    }  
 }
