@@ -167,22 +167,11 @@ p {
 .service-card:hover p {
     color: white;
 }
-
-/* Gallery */
-.gallery-section {
-    margin-bottom: 3rem;
-}
-
-.gallery-title {
-    margin-bottom: 1.5rem;
-    text-align: center;
-    color: var(--dark-color);
-}
-
 .gallery {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     gap: 20px;
+    width: 100%;
 }
 
 .gallery-item {
@@ -190,18 +179,21 @@ p {
     border-radius: 5px;
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
     height: 250px;
+    min-width: 0; /* Zapobiega przelewaniu się zdjęć */
 }
 
-.gallery-item img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    transition: transform 0.5s;
+/* Poprawka dla telefonów */
+@media (max-width: 768px) {
+    .gallery {
+        grid-template-columns: repeat(2, 1fr); /* Dokładnie 2 kolumny na telefonie */
+        gap: 10px; /* Mniejsze odstępy dla telefonów */
+    }
+    
+    .gallery-item {
+        height: 180px; /* Mniejsza wysokość na telefonach */
+    }
 }
 
-.gallery-item:hover img {
-    transform: scale(1.05);
-}
 
 /* Location */
 
