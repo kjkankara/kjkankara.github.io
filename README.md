@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
@@ -233,7 +233,7 @@
 <body>
     <header>
         <h1>Pokoje do wynajęcia w Ćwikowie</h1>
-        <p>Odkryj piękno natury i komfortowy wypoczynek w malowniczej okolicy Oleśna</p>
+        <p>Odkryj piękno natury i komfortowy wypoczynek w malowniczej okolicy Olesna</p>
     </header>
     
     <section id="about">
@@ -253,7 +253,7 @@
                 
                 <div>
                     <h3>Dla miłośników koni</h3>
-                    <p>Nasza oferta skierowana jest szczególnie do miłośników koni. Oferujemy lekcje jazdy konnej dla początkujących i zaawansowanych, przejażdżki w terenie, a także możliwość transportu koni dla gości, którzy chcą przyjechać ze swoimi zwierzętami.</p>
+                    <p>Nasza oferta skierowana jest szczególnie do miłośników koni. Oferujemy lekcje jazdy konnej dla początkujących i zaawansowanych, przejażdżki w terenie, a także możliwość transportu koni.</p>
                     <p>Nasz obiekt to miejsce stworzone z miłości do gościnności oraz pięknej natury.</p>
                 </div>
                 
@@ -301,7 +301,7 @@
                     </div>
                     <div class="room-info">
                         <h3>Prywatne łazienki</h3>
-                        <p>Każdy pokój posiada nowoczesną, prywatną łazienkę z prysznicem, umywalką i toaletą. Zapewniamy ręczniki i podstawowe kosmetyki dla naszych gości.</p>
+                        <p>Każdy pokój posiada nowoczesną, prywatną łazienkę z prysznicem, umywalką i toaletą.</p>
                     </div>
                 </div>
                 
