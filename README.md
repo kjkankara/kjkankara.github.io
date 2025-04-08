@@ -1,1 +1,1 @@
-# Strona Pokoje do wynajęcia w Ćwikowie
+Pokoje gościnne w Ćwikowie
